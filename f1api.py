@@ -1,11 +1,35 @@
 import pandas as pd
 import requests
 
+lapstring = str('1:32.187')
+lapstring = str('null')
+
+#TIME FUNCTION
+def time_convert(lapstring):
+    try:
+        # MS
+        ms = int(lapstring[-3:])
+
+        # SEC
+        s = lapstring.split(':')[1]
+        sec = int(s[0:2])
+
+        # MIN
+        min = int(lapstring.split(':')[0])
+
+        time = 60000 * min + 1000 * sec + ms
+
+    except:
+        time = None
+
+    return time
+
 
 flag = 0
 
 year = 2022
 round_list = range(1,17)
+round_list = range(1,2)
 driver_list = range(20)
 
 
@@ -38,7 +62,27 @@ for round in round_list:
             df = new
             flag = 1
         else:
-            df = pd.concat([df,new])
+            df = pd.concat([df,new], ignore_index=True)
+
+print(df.dtypes)
+
+print (df.applymap(type))
+
+
+df['Q1_ms'] = df['Q1'].apply(time_convert)
+df['Q2_ms'] = df['Q2'].apply(time_convert)
+df['Q3_ms'] = df['Q3'].apply(time_convert)
+
+print('LOOP STARTS HERE______________________________')
+
+for index, row in df.iterrows():
+    if row.loc['Q3_ms'] == row.loc['Q3_ms']:
+        df.at[index,'Qlast'] = row.loc['Q3_ms']
+    elif row.loc['Q2_ms'] == row.loc['Q2_ms']:
+        df.at[index,'Qlast'] = row.loc['Q2_ms']
+    else:
+        df.at[index,'Qlast'] = row.loc['Q1_ms']
+
 
 print(df)
 
@@ -49,16 +93,3 @@ team_colors = {'Team': ['Red Bull', 'Ferrari', 'Alpine F1 Team', 'Mercedes', 'Al
 color_df = pd.DataFrame(team_colors)
 
 
-
-
-
-# df_json = pd.read_json(url)
-  
-# Create empty dataframe
-# df = pd.DataFrame(columns = ['Date', 'Views'])
-
-# for index, row in df_json.iterrows():
-#     df.at[index,'Date'] = row.loc['items']['timestamp']
-#     df.at[index,'Views'] = row.loc['items']['views']
-
-# df = df.dropna()
