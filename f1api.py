@@ -42,6 +42,16 @@ for round in round_list:
 
 print(df)
 
+
+team_colors = {'Team': ['Red Bull', 'Ferrari', 'Alpine F1 Team', 'Mercedes', 'Alfa Romeo', 'AlphaTauri', 'Haas F1 Team', 'McLaren', 'Aston Martin', 'Williams','Renault','Racing Point','Toro Rosso','Force India','Sauber'],
+        'Color': ['#0600ef','#dc0000','#0090ff','#00d2be','#900000','#2b4562','#808080','#ff8700','#006f62','#005aff','#fff500','#f596c8','#469bff','#ff80c7','#006eff']
+        }
+color_df = pd.DataFrame(team_colors)
+
+
+
+
+
 # df_json = pd.read_json(url)
   
 # Create empty dataframe
