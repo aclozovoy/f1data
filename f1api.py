@@ -1,8 +1,8 @@
 import pandas as pd
 import requests
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-lapstring = str('1:32.187')
-lapstring = str('null')
 
 #TIME FUNCTION
 def time_convert(lapstring):
@@ -29,7 +29,7 @@ flag = 0
 
 year = 2022
 round_list = range(1,17)
-round_list = range(1,2)
+# round_list = range(1,4)
 driver_list = range(20)
 
 
@@ -50,12 +50,13 @@ for round in round_list:
     data = resp.json()
 
     for cur_driver in driver_list:
-        print(round,'   ',cur_driver)
+        # print(round,'   ',cur_driver)
         sub_data = (data['MRData']['RaceTable']['Races'][0]['QualifyingResults'][cur_driver])
         new = pd.json_normalize(sub_data)
 
         new['year'] = year
         new['round'] = round
+        new['racename'] = data['MRData']['RaceTable']['Races'][0]['raceName']
 
         # CREATE DF ON FIRST ITERATION. CONCAT ON FOLLOWING ITERATIONS.
         if flag == 0:
@@ -64,17 +65,13 @@ for round in round_list:
         else:
             df = pd.concat([df,new], ignore_index=True)
 
-print(df.dtypes)
 
-print (df.applymap(type))
-
-
+# CONVERT STRING TIME TO FLOAT
 df['Q1_ms'] = df['Q1'].apply(time_convert)
 df['Q2_ms'] = df['Q2'].apply(time_convert)
 df['Q3_ms'] = df['Q3'].apply(time_convert)
 
-print('LOOP STARTS HERE______________________________')
-
+# FIND TIME FROM LAST ROUND FOR EACH DRIVER
 for index, row in df.iterrows():
     if row.loc['Q3_ms'] == row.loc['Q3_ms']:
         df.at[index,'Qlast'] = row.loc['Q3_ms']
@@ -84,12 +81,29 @@ for index, row in df.iterrows():
         df.at[index,'Qlast'] = row.loc['Q1_ms']
 
 
+# LOOP OVER ROUNDS (RACES) TO FIND POLE TIMES
+for round in round_list:
+    df2 = df[df['round'] == round]
+    pole = df2['Qlast'].min()
+    for index, row in df.iterrows():
+        if row.loc['round'] == round:
+            df.at[index,'pole'] = pole
+
+df['time off pole'] = (df['Qlast'] - df['pole']) / 1000
+df['percentage off pole'] = (df['Qlast'] / df['pole'])
+
+
 print(df)
 
 
-team_colors = {'Team': ['Red Bull', 'Ferrari', 'Alpine F1 Team', 'Mercedes', 'Alfa Romeo', 'AlphaTauri', 'Haas F1 Team', 'McLaren', 'Aston Martin', 'Williams','Renault','Racing Point','Toro Rosso','Force India','Sauber'],
-        'Color': ['#0600ef','#dc0000','#0090ff','#00d2be','#900000','#2b4562','#808080','#ff8700','#006f62','#005aff','#fff500','#f596c8','#469bff','#ff80c7','#006eff']
-        }
-color_df = pd.DataFrame(team_colors)
+team_colors = {'Red Bull':'#0600ef', 'Ferrari':'#dc0000', 'Alpine F1 Team':'#0090ff', 'Mercedes':'#00d2be', 'Alfa Romeo':'#900000', 'AlphaTauri':'#2b4562', 'Haas F1 Team':'#808080', 'McLaren':'#ff8700', 'Aston Martin':'#006f62', 'Williams':'#005aff','Renault':'#fff500','Racing Point':'#f596c8','Toro Rosso':'#469bff','Force India':'#ff80c7','Sauber':'#006eff'}
+
+sns.set_style("dark")
+sns.scatterplot(data=df, x="round", y="percentage off pole", hue="Constructor.name", palette=team_colors)
+# sns.lineplot(data=df, x="round", y="percentage off pole", hue="Constructor.name", palette=team_colors)
+plt.xticks(rotation=0)
+plt.show()
+
+
 
 
