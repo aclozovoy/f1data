@@ -27,9 +27,11 @@ def time_convert(lapstring):
 
 flag = 0
 
-year = 2021
+year = 2022
 # round_list = range(1,17)
-round_list = range(1,25)
+round_list = list(range(1,25))
+# round_list.remove(9)
+# round_list.remove(4)
 # round_list = range(1,4)
 driver_list = range(20)
 
@@ -99,41 +101,82 @@ for round in round_list:
     for team in teams:
         df_round_team = df_round[df_round['Constructor.name'] == team]
         team_avg = df_round_team['Qlast'].mean()
+        team_min = df_round_team['Qlast'].min()
         # if team_avg > 1.07*pole:
         #     team_avg = df_round_team['Qlast'].min()
         for index, row in df.iterrows():
             if row.loc['round'] == round:
                 if row.loc['Constructor.name'] == team:
-                    df.at[index,'Qteam'] = team_avg
-
+                    df.at[index,'Qteam_avg'] = team_avg
+                    df.at[index,'Qteam_min'] = team_min
 
 
 # DRIVER TIME OFF POLE
 df['driver time off pole'] = (df['Qlast'] - df['pole']) / 1000
 df['driver percentage off pole'] = (df['Qlast'] / df['pole'])
 
-# TEAM TIME OFF POLE
-df['team avg time off pole'] = (df['Qteam'] - df['pole']) / 1000
-df['team avg percentage off pole'] = (df['Qteam'] / df['pole'])
+# TEAM AVG TIME OFF POLE
+df['team avg time off pole'] = (df['Qteam_avg'] - df['pole']) / 1000
+df['team avg percentage off pole'] = (df['Qteam_avg'] / df['pole'])
 
+# TEAM AVG TIME OFF POLE
+df['team min time off pole'] = (df['Qteam_min'] - df['pole']) / 1000
+df['team min percentage off pole'] = (df['Qteam_min'] / df['pole'])
 
 # REMOVE 'GRAND PRIX' FOR AXIS LABEL
 df['country'] = df['racename'].str.replace(' Grand Prix','')
 
 
-print(df)
+# IMPROVEMENT THROUGH SESSIONS
+df['Q12delta'] = (df['Q2_ms'] - df['Q1_ms']) / 1000
+df['Q23delta'] = (df['Q3_ms'] - df['Q2_ms']) / 1000
+df_Q12delta = df.groupby(['Driver.code', 'Constructor.name'])['Q12delta'].agg('mean').reset_index()
 
+# STD DEV
+df_agg = pd.DataFrame(columns=['std_dev', 'mean'])
+df_agg['std_dev'] = df.groupby(['country'])['driver percentage off pole'].agg('std')
+df_agg['mean'] = df.groupby(['country'])['driver percentage off pole'].agg('mean')
+print(df_agg)
+
+print(df)
+# print(df_Q12delta)
 
 team_colors = {'Red Bull':'#0600ef', 'Ferrari':'#dc0000', 'Alpine F1 Team':'#0090ff', 'Mercedes':'#00d2be', 'Alfa Romeo':'#900000', 'AlphaTauri':'#2b4562', 'Haas F1 Team':'#808080', 'McLaren':'#ff8700', 'Aston Martin':'#006f62', 'Williams':'#005aff','Renault':'#fff500','Racing Point':'#f596c8','Toro Rosso':'#469bff','Force India':'#ff80c7','Sauber':'#006eff','Caterham':'#005030', 'Lotus F1':'a28d00', 'Marussia':'#ed1b24'}
 
+def label_point(x, y, val, ax):
+    a = pd.concat({'x': x, 'y': y, 'val': val}, axis=1)
+    for i, point in a.iterrows():
+        ax.text(point['x']+.02, point['y'], str(point['val']))
+
+
+
+
+plt.figure()
 sns.set_style("dark")
 sns.scatterplot(data=df, x="country", y="driver percentage off pole", hue="Constructor.name", palette=team_colors)
-sns.lineplot(data=df, x="country", y="team avg percentage off pole", hue="Constructor.name", palette=team_colors, size = 0.5)
-plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+sns.lineplot(data=df, x="country", y="team min percentage off pole", hue="Constructor.name", palette=team_colors, size = 0.5)
+
+# label_point(df_agg, df.sepal_width, df_iris.species, plt.gca())
+# for i in range(df.shape[0]):
+    # plt.text(x=df.G[i]+0.3,y=df.GA[i]+0.3,s=df.Driver.code[i], fontdict=dict(color=’red’,size=10),bbox=dict(facecolor=’yellow’,alpha=0.5))
+# plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
 plt.ylim(0.995,1.1)
 plt.xticks(rotation=90)
 plt.title(str(year)+' Formula 1 Qualifying Times')
 plt.show()
+
+plt.figure()
+sns.scatterplot(data=df_agg, x="country", y="mean", color="b")
+plt.show()
+
+plt.figure()
+sns.scatterplot(data=df_agg, x="country", y="std_dev", color="g")
+plt.show()
+
+# plt.figure()
+# sns.barplot(data=df_Q12delta, x='Driver.code', y='Q12delta', hue="Constructor.name", palette=team_colors)#, width=0.8)
+# plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+# plt.show()
 
 
 
