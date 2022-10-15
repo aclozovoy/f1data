@@ -27,7 +27,7 @@ def time_convert(lapstring):
 
 flag = 0
 
-year = 2022
+year = 2014
 # round_list = range(1,17)
 round_list = list(range(1,25))
 # round_list.remove(9)
@@ -132,6 +132,19 @@ df['Q12delta'] = (df['Q2_ms'] - df['Q1_ms']) / 1000
 df['Q23delta'] = (df['Q3_ms'] - df['Q2_ms']) / 1000
 df_Q12delta = df.groupby(['Driver.code', 'Constructor.name'])['Q12delta'].agg('mean').reset_index()
 
+
+# ASSIGN 107% TAG TO REMOVE OUTLIERS
+# df['Under107'] = True
+# df['driver percentage off pole clean'] = df['driver percentage off pole']
+# for index, row in df.iterrows():
+#     if row.loc['driver percentage off pole'] > 1.07:
+#         df['Under107'] = False
+#         df['driver percentage off pole clean'] = None
+
+
+# df['driver percentage off pole'] = df['driver percentage off pole clean']
+
+
 # STD DEV
 df_agg = pd.DataFrame(columns=['std_dev', 'mean'])
 df_agg['std_dev'] = df.groupby(['country'])['driver percentage off pole'].agg('std')
@@ -154,7 +167,7 @@ def label_point(x, y, val, ax):
 plt.figure()
 sns.set_style("dark")
 sns.scatterplot(data=df, x="country", y="driver percentage off pole", hue="Constructor.name", palette=team_colors)
-sns.lineplot(data=df, x="country", y="team min percentage off pole", hue="Constructor.name", palette=team_colors, size = 0.5)
+# sns.lineplot(data=df, x="country", y="team min percentage off pole", hue="Constructor.name", palette=team_colors, size = 0.5)
 
 # label_point(df_agg, df.sepal_width, df_iris.species, plt.gca())
 # for i in range(df.shape[0]):

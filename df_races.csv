@@ -1,0 +1,345 @@
+|circuitId|url|circuitName|Location.lat|Location.long|Location.locality|Location.country|season|round|date|time|fastest
+0|albert_park|http://en.wikipedia.org/wiki/2005_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2005|1|2005-03-06|14:00:00Z|88.279
+0|sepang|http://en.wikipedia.org/wiki/2005_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2005|2|2005-03-20|15:00:00Z|92.582
+0|bahrain|http://en.wikipedia.org/wiki/2005_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2005|3|2005-04-03|14:30:00Z|89.848
+0|imola|http://en.wikipedia.org/wiki/2005_San_Marino_Grand_Prix|Autodromo Enzo e Dino Ferrari|44.3439|11.7167|Imola|Italy|2005|4|2005-04-24|14:00:00Z|79.886
+0|catalunya|http://en.wikipedia.org/wiki/2005_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2005|5|2005-05-08|14:00:00Z|74.795
+0|monaco|http://en.wikipedia.org/wiki/2005_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2005|6|2005-05-22|14:00:00Z|73.644
+0|nurburgring|http://en.wikipedia.org/wiki/2005_European_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2005|7|2005-05-29|14:00:00Z|90.081
+0|villeneuve|http://en.wikipedia.org/wiki/2005_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2005|8|2005-06-12|13:00:00Z|75.217
+0|indianapolis|http://en.wikipedia.org/wiki/2005_United_States_Grand_Prix|Indianapolis Motor Speedway|39.795|-86.2347|Indianapolis|USA|2005|9|2005-06-19|14:00:00Z|70.625
+0|magny_cours|http://en.wikipedia.org/wiki/2005_French_Grand_Prix|Circuit de Nevers Magny-Cours|46.8642|3.16361|Magny Cours|France|2005|10|2005-07-03|14:00:00Z|74.412
+0|silverstone|http://en.wikipedia.org/wiki/2005_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2005|11|2005-07-10|14:00:00Z|79.905
+0|hockenheimring|http://en.wikipedia.org/wiki/2005_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2005|12|2005-07-24|14:00:00Z|74.32
+0|hungaroring|http://en.wikipedia.org/wiki/2005_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2005|13|2005-07-31|14:00:00Z|79.882
+0|istanbul|http://en.wikipedia.org/wiki/2005_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2005|14|2005-08-21|15:00:00Z|86.797
+0|monza|http://en.wikipedia.org/wiki/2005_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2005|15|2005-09-04|14:00:00Z|80.878
+0|spa|http://en.wikipedia.org/wiki/2005_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2005|16|2005-09-11|14:00:00Z|106.391
+0|interlagos|http://en.wikipedia.org/wiki/2005_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2005|17|2005-09-25|14:00:00Z|71.988
+0|suzuka|http://en.wikipedia.org/wiki/2005_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2005|18|2005-10-09|14:00:00Z|106.106
+0|shanghai|http://en.wikipedia.org/wiki/2005_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2005|19|2005-10-16|14:00:00Z|94.08
+0|bahrain|http://en.wikipedia.org/wiki/2006_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2006|1|2006-03-12|14:30:00Z|91.215
+0|sepang|http://en.wikipedia.org/wiki/2006_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2006|2|2006-03-19|15:00:00Z|93.527
+0|albert_park|http://en.wikipedia.org/wiki/2006_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2006|3|2006-04-02|14:00:00Z|85.229
+0|imola|http://en.wikipedia.org/wiki/2006_San_Marino_Grand_Prix|Autodromo Enzo e Dino Ferrari|44.3439|11.7167|Imola|Italy|2006|4|2006-04-23|14:00:00Z|82.579
+0|nurburgring|http://en.wikipedia.org/wiki/2006_European_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2006|5|2006-05-07|14:00:00Z|89.816
+0|catalunya|http://en.wikipedia.org/wiki/2006_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2006|6|2006-05-14|14:00:00Z|74.637
+0|monaco|http://en.wikipedia.org/wiki/2006_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2006|7|2006-05-28|14:00:00Z|73.532
+0|silverstone|http://en.wikipedia.org/wiki/2006_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2006|8|2006-06-11|12:00:00Z|80.253
+0|villeneuve|http://en.wikipedia.org/wiki/2006_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2006|9|2006-06-25|13:00:00Z|74.726
+0|indianapolis|http://en.wikipedia.org/wiki/2006_United_States_Grand_Prix|Indianapolis Motor Speedway|39.795|-86.2347|Indianapolis|USA|2006|10|2006-07-02|14:00:00Z|70.636
+0|magny_cours|http://en.wikipedia.org/wiki/2006_French_Grand_Prix|Circuit de Nevers Magny-Cours|46.8642|3.16361|Magny Cours|France|2006|11|2006-07-16|14:00:00Z|75.111
+0|hockenheimring|http://en.wikipedia.org/wiki/2006_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2006|12|2006-07-30|14:00:00Z|73.778
+0|hungaroring|http://en.wikipedia.org/wiki/2006_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2006|13|2006-08-06|14:00:00Z|79.504
+0|istanbul|http://en.wikipedia.org/wiki/2006_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2006|14|2006-08-27|15:00:00Z|85.85
+0|monza|http://en.wikipedia.org/wiki/2006_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2006|15|2006-09-10|14:00:00Z|81.225
+0|shanghai|http://en.wikipedia.org/wiki/2006_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2006|16|2006-10-01|14:00:00Z|103.951
+0|suzuka|http://en.wikipedia.org/wiki/2006_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2006|17|2006-10-08|14:00:00Z|88.954
+0|interlagos|http://en.wikipedia.org/wiki/2006_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2006|18|2006-10-22|14:00:00Z|70.313
+0|albert_park|http://en.wikipedia.org/wiki/2007_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2007|1|2007-03-18|03:00:00Z|85.326
+0|sepang|http://en.wikipedia.org/wiki/2007_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2007|2|2007-04-08|07:00:00Z|94.057
+0|bahrain|http://en.wikipedia.org/wiki/2007_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2007|3|2007-04-15|11:30:00Z|91.359
+0|catalunya|http://en.wikipedia.org/wiki/2007_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2007|4|2007-05-13|12:00:00Z|80.597
+0|monaco|http://en.wikipedia.org/wiki/2007_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2007|5|2007-05-27|12:00:00Z|75.431
+0|villeneuve|http://en.wikipedia.org/wiki/2007_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2007|6|2007-06-10|17:00:00Z|75.486
+0|indianapolis|http://en.wikipedia.org/wiki/2007_United_States_Grand_Prix|Indianapolis Motor Speedway|39.795|-86.2347|Indianapolis|USA|2007|7|2007-06-17|17:00:00Z|71.926
+0|magny_cours|http://en.wikipedia.org/wiki/2007_French_Grand_Prix|Circuit de Nevers Magny-Cours|46.8642|3.16361|Magny Cours|France|2007|8|2007-07-01|12:00:00Z|74.795
+0|silverstone|http://en.wikipedia.org/wiki/2007_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2007|9|2007-07-08|12:00:00Z|79.152
+0|nurburgring|http://en.wikipedia.org/wiki/2007_European_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2007|10|2007-07-22|12:00:00Z|90.912
+0|hungaroring|http://en.wikipedia.org/wiki/2007_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2007|11|2007-08-05|12:00:00Z|79.301
+0|istanbul|http://en.wikipedia.org/wiki/2007_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2007|12|2007-08-26|12:00:00Z|86.841
+0|monza|http://en.wikipedia.org/wiki/2007_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2007|13|2007-09-09|12:00:00Z|81.356
+0|spa|http://en.wikipedia.org/wiki/2007_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2007|14|2007-09-16|12:00:00Z|105.07
+0|fuji|http://en.wikipedia.org/wiki/2007_Japanese_Grand_Prix|Fuji Speedway|35.3717|138.927|Oyama|Japan|2007|15|2007-09-30|04:30:00Z|84.753
+0|shanghai|http://en.wikipedia.org/wiki/2007_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2007|16|2007-10-07|06:00:00Z|95.381
+0|interlagos|http://en.wikipedia.org/wiki/2007_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2007|17|2007-10-21|16:00:00Z|71.931
+0|albert_park|http://en.wikipedia.org/wiki/2008_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2008|1|2008-03-16|04:30:00Z|85.187
+0|sepang|http://en.wikipedia.org/wiki/2008_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2008|2|2008-03-23|07:00:00Z|94.188
+0|bahrain|http://en.wikipedia.org/wiki/2008_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2008|3|2008-04-06|11:30:00Z|91.188
+0|catalunya|http://en.wikipedia.org/wiki/2008_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2008|4|2008-04-27|12:00:00Z|80.584
+0|istanbul|http://en.wikipedia.org/wiki/2008_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2008|5|2008-05-11|12:00:00Z|85.994
+0|monaco|http://en.wikipedia.org/wiki/2008_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2008|6|2008-05-25|12:00:00Z|75.11
+0|villeneuve|http://en.wikipedia.org/wiki/2008_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2008|7|2008-06-08|17:00:00Z|76.909
+0|magny_cours|http://en.wikipedia.org/wiki/2008_French_Grand_Prix|Circuit de Nevers Magny-Cours|46.8642|3.16361|Magny Cours|France|2008|8|2008-06-22|12:00:00Z|75.024
+0|silverstone|http://en.wikipedia.org/wiki/2008_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2008|9|2008-07-06|12:00:00Z|79.537
+0|hockenheimring|http://en.wikipedia.org/wiki/2008_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2008|10|2008-07-20|12:00:00Z|74.603
+0|hungaroring|http://en.wikipedia.org/wiki/2008_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2008|11|2008-08-03|12:00:00Z|79.068
+0|valencia|http://en.wikipedia.org/wiki/2008_European_Grand_Prix|Valencia Street Circuit|39.4589|-0.331667|Valencia|Spain|2008|12|2008-08-24|12:00:00Z|97.842
+0|spa|http://en.wikipedia.org/wiki/2008_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2008|13|2008-09-07|12:00:00Z|106.037
+0|monza|http://en.wikipedia.org/wiki/2008_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2008|14|2008-09-14|12:00:00Z|95.214
+0|marina_bay|http://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2008|15|2008-09-28|12:00:00Z|104.014
+0|fuji|http://en.wikipedia.org/wiki/2008_Japanese_Grand_Prix|Fuji Speedway|35.3717|138.927|Oyama|Japan|2008|16|2008-10-12|04:30:00Z|77.287
+0|shanghai|http://en.wikipedia.org/wiki/2008_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2008|17|2008-10-19|07:00:00Z|94.947
+0|interlagos|http://en.wikipedia.org/wiki/2008_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2008|18|2008-11-02|17:00:00Z|71.768
+0|albert_park|http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2009|1|2009-03-29|06:00:00Z|84.783
+0|sepang|http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2009|2|2009-04-05|09:00:00Z|93.784
+0|shanghai|http://en.wikipedia.org/wiki/2009_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2009|3|2009-04-19|07:00:00Z|95.13
+0|bahrain|http://en.wikipedia.org/wiki/2009_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2009|4|2009-04-26|12:00:00Z|92.474
+0|catalunya|http://en.wikipedia.org/wiki/2009_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2009|5|2009-05-10|12:00:00Z|79.954
+0|monaco|http://en.wikipedia.org/wiki/2009_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2009|6|2009-05-24|12:00:00Z|74.514
+0|istanbul|http://en.wikipedia.org/wiki/2009_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2009|7|2009-06-07|12:00:00Z|87.016
+0|silverstone|http://en.wikipedia.org/wiki/2009_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2009|8|2009-06-21|12:00:00Z|78.119
+0|nurburgring|http://en.wikipedia.org/wiki/2009_German_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2009|9|2009-07-12|12:00:00Z|91.257
+0|hungaroring|http://en.wikipedia.org/wiki/2009_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2009|10|2009-07-26|12:00:00Z|80.358
+0|valencia|http://en.wikipedia.org/wiki/2009_European_Grand_Prix|Valencia Street Circuit|39.4589|-0.331667|Valencia|Spain|2009|11|2009-08-23|12:00:00Z|98.076
+0|spa|http://en.wikipedia.org/wiki/2009_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2009|12|2009-08-30|12:00:00Z|104.503
+0|monza|http://en.wikipedia.org/wiki/2009_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2009|13|2009-09-13|12:00:00Z|82.955
+0|marina_bay|http://en.wikipedia.org/wiki/2009_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2009|14|2009-09-27|12:00:00Z|106.197
+0|suzuka|http://en.wikipedia.org/wiki/2009_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2009|15|2009-10-04|05:00:00Z|90.341
+0|interlagos|http://en.wikipedia.org/wiki/2009_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2009|16|2009-10-18|16:00:00Z|79.576
+0|yas_marina|http://en.wikipedia.org/wiki/2009_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2009|17|2009-11-01|11:00:00Z|99.695
+0|bahrain|http://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2010|1|2010-03-14|12:00:00Z|113.883
+0|albert_park|http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2010|2|2010-03-28|06:00:00Z|83.919
+0|sepang|http://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2010|3|2010-04-04|08:00:00Z|106.283
+0|shanghai|http://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2010|4|2010-04-18|06:00:00Z|94.558
+0|catalunya|http://en.wikipedia.org/wiki/2010_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2010|5|2010-05-09|12:00:00Z|79.995
+0|monaco|http://en.wikipedia.org/wiki/2010_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2010|6|2010-05-16|12:00:00Z|73.826
+0|istanbul|http://en.wikipedia.org/wiki/2010_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2010|7|2010-05-30|11:00:00Z|86.295
+0|villeneuve|http://en.wikipedia.org/wiki/2010_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2010|8|2010-06-13|16:00:00Z|75.105
+0|valencia|http://en.wikipedia.org/wiki/2010_European_Grand_Prix|Valencia Street Circuit|39.4589|-0.331667|Valencia|Spain|2010|9|2010-06-27|12:00:00Z|97.587
+0|silverstone|http://en.wikipedia.org/wiki/2010_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2010|10|2010-07-11|12:00:00Z|89.615
+0|hockenheimring|http://en.wikipedia.org/wiki/2010_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2010|11|2010-07-25|12:00:00Z|73.791
+0|hungaroring|http://en.wikipedia.org/wiki/2010_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2010|12|2010-08-01|12:00:00Z|78.773
+0|spa|http://en.wikipedia.org/wiki/2010_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2010|13|2010-08-29|12:00:00Z|105.778
+0|monza|http://en.wikipedia.org/wiki/2010_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2010|14|2010-09-12|12:00:00Z|81.962
+0|marina_bay|http://en.wikipedia.org/wiki/2010_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2010|15|2010-09-26|12:00:00Z|105.39
+0|suzuka|http://en.wikipedia.org/wiki/2010_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2010|16|2010-10-10|06:00:00Z|90.785
+0|yeongam|http://en.wikipedia.org/wiki/2010_Korean_Grand_Prix|Korean International Circuit|34.7333|126.417|Yeongam County|Korea|2010|17|2010-10-24|05:00:00Z|95.585
+0|interlagos|http://en.wikipedia.org/wiki/2010_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2010|18|2010-11-07|16:00:00Z|74.47
+0|yas_marina|http://en.wikipedia.org/wiki/2010_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2010|19|2010-11-14|13:00:00Z|99.394
+0|albert_park|http://en.wikipedia.org/wiki/2011_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2011|1|2011-03-27|06:00:00Z|83.529
+0|sepang|http://en.wikipedia.org/wiki/2011_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2011|2|2011-04-10|08:00:00Z|94.87
+0|shanghai|http://en.wikipedia.org/wiki/2011_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2011|3|2011-04-17|07:00:00Z|93.706
+0|istanbul|http://en.wikipedia.org/wiki/2011_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2011|4|2011-05-08|12:00:00Z|85.049
+0|catalunya|http://en.wikipedia.org/wiki/2011_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2011|5|2011-05-22|12:00:00Z|80.981
+0|monaco|http://en.wikipedia.org/wiki/2011_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2011|6|2011-05-29|12:00:00Z|73.556
+0|villeneuve|http://en.wikipedia.org/wiki/2011_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2011|7|2011-06-12|17:00:00Z|73.014
+0|valencia|http://en.wikipedia.org/wiki/2011_European_Grand_Prix|Valencia Street Circuit|39.4589|-0.331667|Valencia|Spain|2011|8|2011-06-26|12:00:00Z|96.975
+0|silverstone|http://en.wikipedia.org/wiki/2011_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2011|9|2011-07-10|12:00:00Z|90.399
+0|nurburgring|http://en.wikipedia.org/wiki/2011_German_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2011|10|2011-07-24|12:00:00Z|90.079
+0|hungaroring|http://en.wikipedia.org/wiki/2011_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2011|11|2011-07-31|12:00:00Z|79.815
+0|spa|http://en.wikipedia.org/wiki/2011_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2011|12|2011-08-28|12:00:00Z|108.298
+0|monza|http://en.wikipedia.org/wiki/2011_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2011|13|2011-09-11|12:00:00Z|82.275
+0|marina_bay|http://en.wikipedia.org/wiki/2011_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2011|14|2011-09-25|12:00:00Z|104.381
+0|suzuka|http://en.wikipedia.org/wiki/2011_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2011|15|2011-10-09|06:00:00Z|90.466
+0|yeongam|http://en.wikipedia.org/wiki/2011_Korean_Grand_Prix|Korean International Circuit|34.7333|126.417|Yeongam County|Korea|2011|16|2011-10-16|06:00:00Z|95.82
+0|buddh|http://en.wikipedia.org/wiki/2011_Indian_Grand_Prix|Buddh International Circuit|28.3487|77.5331|Uttar Pradesh|India|2011|17|2011-10-30|09:30:00Z|84.178
+0|yas_marina|http://en.wikipedia.org/wiki/2011_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2011|18|2011-11-13|13:00:00Z|98.434
+0|interlagos|http://en.wikipedia.org/wiki/2011_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2011|19|2011-11-27|16:00:00Z|71.918
+0|albert_park|http://en.wikipedia.org/wiki/2012_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2012|1|2012-03-18|06:00:00Z|84.922
+0|sepang|http://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2012|2|2012-03-25|08:00:00Z|96.219
+0|shanghai|http://en.wikipedia.org/wiki/2012_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2012|3|2012-04-15|07:00:00Z|95.121
+0|bahrain|http://en.wikipedia.org/wiki/2012_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2012|4|2012-04-22|12:00:00Z|92.422
+0|catalunya|http://en.wikipedia.org/wiki/2012_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2012|5|2012-05-13|12:00:00Z|81.707
+0|monaco|http://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2012|6|2012-05-27|12:00:00Z|74.301
+0|villeneuve|http://en.wikipedia.org/wiki/2012_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2012|7|2012-06-10|18:00:00Z|73.784
+0|valencia|http://en.wikipedia.org/wiki/2012_European_Grand_Prix|Valencia Street Circuit|39.4589|-0.331667|Valencia|Spain|2012|8|2012-06-24|12:00:00Z|98.086
+0|silverstone|http://en.wikipedia.org/wiki/2012_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2012|9|2012-07-08|12:00:00Z|106.279
+0|hockenheimring|http://en.wikipedia.org/wiki/2012_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2012|10|2012-07-22|12:00:00Z|75.693
+0|hungaroring|http://en.wikipedia.org/wiki/2012_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2012|11|2012-07-29|12:00:00Z|80.953
+0|spa|http://en.wikipedia.org/wiki/2012_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2012|12|2012-09-02|12:00:00Z|107.573
+0|monza|http://en.wikipedia.org/wiki/2012_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2012|13|2012-09-09|12:00:00Z|84.01
+0|marina_bay|http://en.wikipedia.org/wiki/2012_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2012|14|2012-09-23|12:00:00Z|106.362
+0|suzuka|http://en.wikipedia.org/wiki/2012_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2012|15|2012-10-07|06:00:00Z|90.839
+0|yeongam|http://en.wikipedia.org/wiki/2012_Korean_Grand_Prix|Korean International Circuit|34.7333|126.417|Yeongam County|Korea|2012|16|2012-10-14|06:00:00Z|97.242
+0|buddh|http://en.wikipedia.org/wiki/2012_Indian_Grand_Prix|Buddh International Circuit|28.3487|77.5331|Uttar Pradesh|India|2012|17|2012-10-28|09:30:00Z|85.283
+0|yas_marina|http://en.wikipedia.org/wiki/2012_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2012|18|2012-11-04|13:00:00Z|100.63
+0|americas|http://en.wikipedia.org/wiki/2012_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2012|19|2012-11-18|19:00:00Z|95.657
+0|interlagos|http://en.wikipedia.org/wiki/2012_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2012|20|2012-11-25|16:00:00Z|72.458
+0|albert_park|http://en.wikipedia.org/wiki/2013_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2013|1|2013-03-17|06:00:00Z|87.407
+0|sepang|http://en.wikipedia.org/wiki/2013_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2013|2|2013-03-24|08:00:00Z|96.19
+0|shanghai|http://en.wikipedia.org/wiki/2013_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2013|3|2013-04-14|07:00:00Z|94.484
+0|bahrain|http://en.wikipedia.org/wiki/2013_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2013|4|2013-04-21|12:00:00Z|92.33
+0|catalunya|http://en.wikipedia.org/wiki/2013_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2013|5|2013-05-12|12:00:00Z|80.718
+0|monaco|http://en.wikipedia.org/wiki/2013_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2013|6|2013-05-26|12:00:00Z|73.876
+0|villeneuve|http://en.wikipedia.org/wiki/2013_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2013|7|2013-06-09|18:00:00Z|82.318
+0|silverstone|http://en.wikipedia.org/wiki/2013_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2013|8|2013-06-30|12:00:00Z|89.607
+0|nurburgring|http://en.wikipedia.org/wiki/2013_German_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2013|9|2013-07-07|12:00:00Z|89.398
+0|hungaroring|http://en.wikipedia.org/wiki/2013_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2013|10|2013-07-28|12:00:00Z|79.388
+0|spa|http://en.wikipedia.org/wiki/2013_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2013|11|2013-08-25|12:00:00Z|108.296
+0|monza|http://en.wikipedia.org/wiki/2013_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2013|12|2013-09-08|12:00:00Z|83.755
+0|marina_bay|http://en.wikipedia.org/wiki/2013_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2013|13|2013-09-22|12:00:00Z|102.841
+0|yeongam|http://en.wikipedia.org/wiki/2013_Korean_Grand_Prix|Korean International Circuit|34.7333|126.417|Yeongam County|Korea|2013|14|2013-10-06|06:00:00Z|97.202
+0|suzuka|http://en.wikipedia.org/wiki/2013_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2013|15|2013-10-13|06:00:00Z|90.915
+0|buddh|http://en.wikipedia.org/wiki/2013_Indian_Grand_Prix|Buddh International Circuit|28.3487|77.5331|Uttar Pradesh|India|2013|16|2013-10-27|09:30:00Z|84.119
+0|yas_marina|http://en.wikipedia.org/wiki/2013_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2013|17|2013-11-03|13:00:00Z|99.957
+0|americas|http://en.wikipedia.org/wiki/2013_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2013|18|2013-11-17|19:00:00Z|96.338
+0|interlagos|http://en.wikipedia.org/wiki/2013_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2013|19|2013-11-24|16:00:00Z|85.342
+0|albert_park|http://en.wikipedia.org/wiki/2014_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2014|1|2014-03-16|06:00:00Z|90.775
+0|sepang|http://en.wikipedia.org/wiki/2014_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2014|2|2014-03-30|08:00:00Z|117.183
+0|bahrain|http://en.wikipedia.org/wiki/2014_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2014|3|2014-04-06|15:00:00Z|93.185
+0|shanghai|http://en.wikipedia.org/wiki/2014_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2014|4|2014-04-20|07:00:00Z|113.86
+0|catalunya|http://en.wikipedia.org/wiki/2014_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2014|5|2014-05-11|12:00:00Z|85.232
+0|monaco|http://en.wikipedia.org/wiki/2014_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2014|6|2014-05-25|12:00:00Z|75.989
+0|villeneuve|http://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2014|7|2014-06-08|18:00:00Z|74.874
+0|red_bull_ring|http://en.wikipedia.org/wiki/2014_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2014|8|2014-06-22|12:00:00Z|68.759
+0|silverstone|http://en.wikipedia.org/wiki/2014_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2014|9|2014-07-06|12:00:00Z|94.87
+0|hockenheimring|http://en.wikipedia.org/wiki/2014_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2014|10|2014-07-20|12:00:00Z|76.54
+0|hungaroring|http://en.wikipedia.org/wiki/2014_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2014|11|2014-07-27|12:00:00Z|82.715
+0|spa|http://en.wikipedia.org/wiki/2014_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2014|12|2014-08-24|12:00:00Z|125.591
+0|monza|http://en.wikipedia.org/wiki/2014_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2014|13|2014-09-07|12:00:00Z|84.109
+0|marina_bay|http://en.wikipedia.org/wiki/2014_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2014|14|2014-09-21|12:00:00Z|105.681
+0|suzuka|http://en.wikipedia.org/wiki/2014_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2014|15|2014-10-05|06:00:00Z|92.506
+0|sochi|http://en.wikipedia.org/wiki/2014_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2014|16|2014-10-12|11:00:00Z|98.338
+0|americas|http://en.wikipedia.org/wiki/2014_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2014|17|2014-11-02|20:00:00Z|96.067
+0|interlagos|http://en.wikipedia.org/wiki/2014_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2014|18|2014-11-09|16:00:00Z|70.023
+0|yas_marina|http://en.wikipedia.org/wiki/2014_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2014|19|2014-11-23|13:00:00Z|100.48
+0|albert_park|http://en.wikipedia.org/wiki/2015_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2015|1|2015-03-15|05:00:00Z|86.327
+0|sepang|http://en.wikipedia.org/wiki/2015_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2015|2|2015-03-29|07:00:00Z|99.269
+0|shanghai|http://en.wikipedia.org/wiki/2015_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2015|3|2015-04-12|06:00:00Z|95.782
+0|bahrain|http://en.wikipedia.org/wiki/2015_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2015|4|2015-04-19|15:00:00Z|92.571
+0|catalunya|http://en.wikipedia.org/wiki/2015_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2015|5|2015-05-10|12:00:00Z|84.681
+0|monaco|http://en.wikipedia.org/wiki/2015_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2015|6|2015-05-24|12:00:00Z|75.098
+0|villeneuve|http://en.wikipedia.org/wiki/2015_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2015|7|2015-06-07|18:00:00Z|74.393
+0|red_bull_ring|http://en.wikipedia.org/wiki/2015_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2015|8|2015-06-21|12:00:00Z|68.455
+0|silverstone|http://en.wikipedia.org/wiki/2015_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2015|9|2015-07-05|12:00:00Z|92.248
+0|hungaroring|http://en.wikipedia.org/wiki/2015_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2015|10|2015-07-26|12:00:00Z|82.02
+0|spa|http://en.wikipedia.org/wiki/2015_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2015|11|2015-08-23|12:00:00Z|107.197
+0|monza|http://en.wikipedia.org/wiki/2015_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2015|12|2015-09-06|12:00:00Z|83.383
+0|marina_bay|http://en.wikipedia.org/wiki/2015_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2015|13|2015-09-20|12:00:00Z|103.885
+0|suzuka|http://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2015|14|2015-09-27|05:00:00Z|92.584
+0|sochi|http://en.wikipedia.org/wiki/2015_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2015|15|2015-10-11|11:00:00Z|97.113
+0|americas|http://en.wikipedia.org/wiki/2015_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2015|16|2015-10-25|19:00:00Z|116.495
+0|rodriguez|http://en.wikipedia.org/wiki/2015_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2015|17|2015-11-01|19:00:00Z|79.48
+0|interlagos|http://en.wikipedia.org/wiki/2015_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2015|18|2015-11-15|16:00:00Z|71.282
+0|yas_marina|http://en.wikipedia.org/wiki/2015_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2015|19|2015-11-29|13:00:00Z|100.237
+0|albert_park|http://en.wikipedia.org/wiki/2016_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2016|1|2016-03-20|05:00:00Z|83.837
+0|bahrain|http://en.wikipedia.org/wiki/2016_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2016|2|2016-04-03|15:00:00Z|89.493
+0|shanghai|http://en.wikipedia.org/wiki/2016_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2016|3|2016-04-17|06:00:00Z|95.402
+0|sochi|http://en.wikipedia.org/wiki/2016_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2016|4|2016-05-01|12:00:00Z|95.337
+0|catalunya|http://en.wikipedia.org/wiki/2016_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2016|5|2016-05-15|12:00:00Z|82.0
+0|monaco|http://en.wikipedia.org/wiki/2016_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2016|6|2016-05-29|12:00:00Z|73.622
+0|villeneuve|http://en.wikipedia.org/wiki/2016_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2016|7|2016-06-12|18:00:00Z|72.812
+0|baku|http://en.wikipedia.org/wiki/2016_European_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2016|8|2016-06-19|13:00:00Z|102.52
+0|red_bull_ring|http://en.wikipedia.org/wiki/2016_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2016|9|2016-07-03|12:00:00Z|66.228
+0|silverstone|http://en.wikipedia.org/wiki/2016_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2016|10|2016-07-10|12:00:00Z|89.243
+0|hungaroring|http://en.wikipedia.org/wiki/2016_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2016|11|2016-07-24|12:00:00Z|79.965
+0|hockenheimring|http://en.wikipedia.org/wiki/2016_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2016|12|2016-07-31|12:00:00Z|74.363
+0|spa|http://en.wikipedia.org/wiki/2016_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2016|13|2016-08-28|12:00:00Z|106.744
+0|monza|http://en.wikipedia.org/wiki/2016_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2016|14|2016-09-04|12:00:00Z|81.135
+0|marina_bay|http://en.wikipedia.org/wiki/2016_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2016|15|2016-09-18|12:00:00Z|102.584
+0|sepang|http://en.wikipedia.org/wiki/2016_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2016|16|2016-10-02|07:00:00Z|92.85
+0|suzuka|http://en.wikipedia.org/wiki/2016_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2016|17|2016-10-09|05:00:00Z|90.647
+0|americas|http://en.wikipedia.org/wiki/2016_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2016|18|2016-10-23|19:00:00Z|94.999
+0|rodriguez|http://en.wikipedia.org/wiki/2016_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2016|19|2016-10-30|19:00:00Z|78.704
+0|interlagos|http://en.wikipedia.org/wiki/2016_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2016|20|2016-11-13|16:00:00Z|70.736
+0|yas_marina|http://en.wikipedia.org/wiki/2016_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2016|21|2016-11-27|13:00:00Z|98.755
+0|albert_park|http://en.wikipedia.org/wiki/2017_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2017|1|2017-03-26|05:00:00Z|82.188
+0|shanghai|http://en.wikipedia.org/wiki/2017_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2017|2|2017-04-09|06:00:00Z|91.678
+0|bahrain|http://en.wikipedia.org/wiki/2017_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2017|3|2017-04-16|15:00:00Z|88.769
+0|sochi|http://en.wikipedia.org/wiki/2017_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2017|4|2017-04-30|12:00:00Z|93.194
+0|catalunya|http://en.wikipedia.org/wiki/2017_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2017|5|2017-05-14|12:00:00Z|79.149
+0|monaco|http://en.wikipedia.org/wiki/2017_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2017|6|2017-05-28|12:00:00Z|72.178
+0|villeneuve|http://en.wikipedia.org/wiki/2017_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2017|7|2017-06-11|18:00:00Z|71.459
+0|baku|http://en.wikipedia.org/wiki/2017_Azerbaijan_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2017|8|2017-06-25|13:00:00Z|100.593
+0|red_bull_ring|http://en.wikipedia.org/wiki/2017_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2017|9|2017-07-09|12:00:00Z|64.251
+0|silverstone|http://en.wikipedia.org/wiki/2017_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2017|10|2017-07-16|12:00:00Z|86.6
+0|hungaroring|http://en.wikipedia.org/wiki/2017_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2017|11|2017-07-30|12:00:00Z|76.276
+0|spa|http://en.wikipedia.org/wiki/2017_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2017|12|2017-08-27|12:00:00Z|102.553
+0|monza|http://en.wikipedia.org/wiki/2017_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2017|13|2017-09-03|12:00:00Z|94.66
+0|marina_bay|http://en.wikipedia.org/wiki/2017_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2017|14|2017-09-17|12:00:00Z|99.491
+0|sepang|http://en.wikipedia.org/wiki/2017_Malaysian_Grand_Prix|Sepang International Circuit|2.76083|101.738|Kuala Lumpur|Malaysia|2017|15|2017-10-01|07:00:00Z|90.076
+0|suzuka|http://en.wikipedia.org/wiki/2017_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2017|16|2017-10-08|05:00:00Z|87.319
+0|americas|http://en.wikipedia.org/wiki/2017_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2017|17|2017-10-22|19:00:00Z|93.108
+0|rodriguez|http://en.wikipedia.org/wiki/2017_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2017|18|2017-10-29|19:00:00Z|76.488
+0|interlagos|http://en.wikipedia.org/wiki/2017_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2017|19|2017-11-12|16:00:00Z|68.322
+0|yas_marina|http://en.wikipedia.org/wiki/2017_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2017|20|2017-11-26|13:00:00Z|96.231
+0|albert_park|http://en.wikipedia.org/wiki/2018_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2018|1|2018-03-25|05:10:00Z|81.164
+0|bahrain|http://en.wikipedia.org/wiki/2018_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2018|2|2018-04-08|15:10:00Z|87.958
+0|shanghai|http://en.wikipedia.org/wiki/2018_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2018|3|2018-04-15|06:10:00Z|91.095
+0|baku|http://en.wikipedia.org/wiki/2018_Azerbaijan_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2018|4|2018-04-29|12:10:00Z|101.498
+0|catalunya|http://en.wikipedia.org/wiki/2018_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2018|5|2018-05-13|13:10:00Z|76.173
+0|monaco|http://en.wikipedia.org/wiki/2018_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2018|6|2018-05-27|13:10:00Z|70.81
+0|villeneuve|http://en.wikipedia.org/wiki/2018_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2018|7|2018-06-10|18:10:00Z|70.764
+0|ricard|http://en.wikipedia.org/wiki/2018_French_Grand_Prix|Circuit Paul Ricard|43.2506|5.79167|Le Castellet|France|2018|8|2018-06-24|14:10:00Z|90.029
+0|red_bull_ring|http://en.wikipedia.org/wiki/2018_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2018|9|2018-07-01|13:10:00Z|63.13
+0|silverstone|http://en.wikipedia.org/wiki/2018_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2018|10|2018-07-08|13:10:00Z|85.892
+0|hockenheimring|http://en.wikipedia.org/wiki/2018_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2018|11|2018-07-22|13:10:00Z|71.212
+0|hungaroring|http://en.wikipedia.org/wiki/2018_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2018|12|2018-07-29|13:10:00Z|76.666
+0|spa|http://en.wikipedia.org/wiki/2018_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2018|13|2018-08-26|13:10:00Z|101.501
+0|monza|http://en.wikipedia.org/wiki/2018_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2018|14|2018-09-02|13:10:00Z|79.119
+0|marina_bay|http://en.wikipedia.org/wiki/2018_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2018|15|2018-09-16|12:10:00Z|96.015
+0|sochi|http://en.wikipedia.org/wiki/2018_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2018|16|2018-09-30|11:10:00Z|91.387
+0|suzuka|http://en.wikipedia.org/wiki/2018_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2018|17|2018-10-07|05:10:00Z|87.76
+0|americas|http://en.wikipedia.org/wiki/2018_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2018|18|2018-10-21|18:10:00Z|92.237
+0|rodriguez|http://en.wikipedia.org/wiki/2018_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2018|19|2018-10-28|19:10:00Z|74.759
+0|interlagos|http://en.wikipedia.org/wiki/2018_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2018|20|2018-11-11|17:10:00Z|67.281
+0|yas_marina|http://en.wikipedia.org/wiki/2018_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2018|21|2018-11-25|13:10:00Z|94.794
+0|albert_park|http://en.wikipedia.org/wiki/2019_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2019|1|2019-03-17|05:10:00Z|80.486
+0|bahrain|http://en.wikipedia.org/wiki/2019_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2019|2|2019-03-31|15:10:00Z|87.866
+0|shanghai|http://en.wikipedia.org/wiki/2019_Chinese_Grand_Prix|Shanghai International Circuit|31.3389|121.22|Shanghai|China|2019|3|2019-04-14|06:10:00Z|91.547
+0|baku|http://en.wikipedia.org/wiki/2019_Azerbaijan_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2019|4|2019-04-28|12:10:00Z|100.495
+0|catalunya|http://en.wikipedia.org/wiki/2019_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2019|5|2019-05-12|13:10:00Z|75.406
+0|monaco|http://en.wikipedia.org/wiki/2019_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2019|6|2019-05-26|13:10:00Z|70.166
+0|villeneuve|http://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2019|7|2019-06-09|18:10:00Z|70.24
+0|ricard|http://en.wikipedia.org/wiki/2019_French_Grand_Prix|Circuit Paul Ricard|43.2506|5.79167|Le Castellet|France|2019|8|2019-06-23|13:10:00Z|88.319
+0|red_bull_ring|http://en.wikipedia.org/wiki/2019_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2019|9|2019-06-30|13:10:00Z|63.003
+0|silverstone|http://en.wikipedia.org/wiki/2019_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2019|10|2019-07-14|13:10:00Z|85.093
+0|hockenheimring|http://en.wikipedia.org/wiki/2019_German_Grand_Prix|Hockenheimring|49.3278|8.56583|Hockenheim|Germany|2019|11|2019-07-28|13:10:00Z|71.767
+0|hungaroring|http://en.wikipedia.org/wiki/2019_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2019|12|2019-08-04|13:10:00Z|74.572
+0|spa|http://en.wikipedia.org/wiki/2019_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2019|13|2019-09-01|13:10:00Z|102.519
+0|monza|http://en.wikipedia.org/wiki/2019_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2019|14|2019-09-08|13:10:00Z|79.307
+0|marina_bay|http://en.wikipedia.org/wiki/2019_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2019|15|2019-09-22|12:10:00Z|96.217
+0|sochi|http://en.wikipedia.org/wiki/2019_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2019|16|2019-09-29|11:10:00Z|91.628
+0|suzuka|http://en.wikipedia.org/wiki/2019_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2019|17|2019-10-13|05:10:00Z|87.064
+0|rodriguez|http://en.wikipedia.org/wiki/2019_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2019|18|2019-10-27|19:10:00Z|74.758
+0|americas|http://en.wikipedia.org/wiki/2019_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2019|19|2019-11-03|19:10:00Z|92.029
+0|interlagos|http://en.wikipedia.org/wiki/2019_Brazilian_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2019|20|2019-11-17|17:10:00Z|67.503
+0|yas_marina|http://en.wikipedia.org/wiki/2019_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2019|21|2019-12-01|13:10:00Z|94.779
+0|red_bull_ring|http://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2020|1|2020-07-05|13:10:00Z|62.939
+0|red_bull_ring|http://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2020|2|2020-07-12|13:10:00Z|77.825
+0|hungaroring|http://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2020|3|2020-07-19|13:10:00Z|73.447
+0|silverstone|http://en.wikipedia.org/wiki/2020_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2020|4|2020-08-02|13:10:00Z|84.303
+0|silverstone|http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2020|5|2020-08-09|13:10:00Z|85.154
+0|catalunya|http://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2020|6|2020-08-16|13:10:00Z|75.584
+0|spa|http://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2020|7|2020-08-30|13:10:00Z|101.252
+0|monza|http://en.wikipedia.org/wiki/2020_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2020|8|2020-09-06|13:10:00Z|78.887
+0|mugello|http://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix|Autodromo Internazionale del Mugello|43.9975|11.3719|Mugello|Italy|2020|9|2020-09-13|13:10:00Z|75.144
+0|sochi|http://en.wikipedia.org/wiki/2020_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2020|10|2020-09-27|11:10:00Z|91.304
+0|nurburgring|http://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix|Nürburgring|50.3356|6.9475|Nürburg|Germany|2020|11|2020-10-11|13:10:00Z|85.269
+0|portimao|http://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix|Autódromo Internacional do Algarve|37.227|-8.6267|Portimão|Portugal|2020|12|2020-10-25|12:10:00Z|76.466
+0|imola|http://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix|Autodromo Enzo e Dino Ferrari|44.3439|11.7167|Imola|Italy|2020|13|2020-11-01|12:10:00Z|73.609
+0|istanbul|http://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2020|14|2020-11-15|10:10:00Z|107.765
+0|bahrain|http://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2020|15|2020-11-29|14:10:00Z|87.264
+0|bahrain|http://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2020|16|2020-12-06|17:10:00Z|53.377
+0|yas_marina|http://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2020|17|2020-12-13|13:10:00Z|95.246
+0|bahrain|http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2021|1|2021-03-28|15:00:00Z|88.997
+0|imola|http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix|Autodromo Enzo e Dino Ferrari|44.3439|11.7167|Imola|Italy|2021|2|2021-04-18|13:00:00Z|74.411
+0|portimao|http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix|Autódromo Internacional do Algarve|37.227|-8.6267|Portimão|Portugal|2021|3|2021-05-02|14:00:00Z|77.968
+0|catalunya|http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2021|4|2021-05-09|13:00:00Z|76.741
+0|monaco|http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2021|5|2021-05-23|13:00:00Z|70.346
+0|baku|http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2021|6|2021-06-06|12:00:00Z|101.218
+0|ricard|http://en.wikipedia.org/wiki/2021_French_Grand_Prix|Circuit Paul Ricard|43.2506|5.79167|Le Castellet|France|2021|7|2021-06-20|13:00:00Z|89.99
+0|red_bull_ring|http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2021|8|2021-06-27|13:00:00Z|63.841
+0|red_bull_ring|http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2021|9|2021-07-04|13:00:00Z|63.72
+0|silverstone|http://en.wikipedia.org/wiki/2021_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2021|10|2021-07-18|14:00:00Z|86.023
+0|hungaroring|http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2021|11|2021-08-01|13:00:00Z|75.419
+0|spa|http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2021|12|2021-08-29|13:00:00Z|116.025
+0|zandvoort|http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix|Circuit Park Zandvoort|52.3888|4.54092|Zandvoort|Netherlands|2021|13|2021-09-05|13:00:00Z|68.885
+0|monza|http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2021|14|2021-09-12|13:00:00Z|79.555
+0|sochi|http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix|Sochi Autodrom|43.4057|39.9578|Sochi|Russia|2021|15|2021-09-26|12:00:00Z|101.993
+0|istanbul|http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix|Istanbul Park|40.9517|29.405|Istanbul|Turkey|2021|16|2021-10-10|12:00:00Z|82.868
+0|americas|http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix|Circuit of the Americas|30.1328|-97.6411|Austin|USA|2021|17|2021-10-24|19:00:00Z|92.91
+0|rodriguez|http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix|Autódromo Hermanos Rodríguez|19.4042|-99.0907|Mexico City|Mexico|2021|18|2021-11-07|19:00:00Z|75.875
+0|interlagos|http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix|Autódromo José Carlos Pace|-23.7036|-46.6997|São Paulo|Brazil|2021|19|2021-11-14|17:00:00Z|67.934
+0|losail|http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix|Losail International Circuit|25.49|51.4542|Al Daayen|Qatar|2021|20|2021-11-21|14:00:00Z|80.827
+0|jeddah|http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix|Jeddah Corniche Circuit|21.6319|39.1044|Jeddah|Saudi Arabia|2021|21|2021-12-05|17:30:00Z|87.511
+0|yas_marina|http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix|Yas Marina Circuit|24.4672|54.6031|Abu Dhabi|UAE|2021|22|2021-12-12|13:00:00Z|82.109
+0|bahrain|http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix|Bahrain International Circuit|26.0325|50.5106|Sakhir|Bahrain|2022|1|2022-03-20|15:00:00Z|90.558
+0|jeddah|http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix|Jeddah Corniche Circuit|21.6319|39.1044|Jeddah|Saudi Arabia|2022|2|2022-03-27|17:00:00Z|88.2
+0|albert_park|http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix|Albert Park Grand Prix Circuit|-37.8497|144.968|Melbourne|Australia|2022|3|2022-04-10|05:00:00Z|77.868
+0|imola|http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix|Autodromo Enzo e Dino Ferrari|44.3439|11.7167|Imola|Italy|2022|4|2022-04-24|13:00:00Z|78.793
+0|miami|http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix|Miami International Autodrome|25.9581|-80.2389|Miami|USA|2022|5|2022-05-08|19:30:00Z|88.796
+0|catalunya|http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix|Circuit de Barcelona-Catalunya|41.57|2.26111|Montmeló|Spain|2022|6|2022-05-22|13:00:00Z|78.75
+0|monaco|http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix|Circuit de Monaco|43.7347|7.42056|Monte-Carlo|Monaco|2022|7|2022-05-29|13:00:00Z|71.376
+0|baku|http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix|Baku City Circuit|40.3725|49.8533|Baku|Azerbaijan|2022|8|2022-06-12|11:00:00Z|101.359
+0|villeneuve|http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix|Circuit Gilles Villeneuve|45.5|-73.5228|Montreal|Canada|2022|9|2022-06-19|18:00:00Z|81.299
+0|silverstone|http://en.wikipedia.org/wiki/2022_British_Grand_Prix|Silverstone Circuit|52.0786|-1.01694|Silverstone|UK|2022|10|2022-07-03|14:00:00Z|99.129
+0|red_bull_ring|http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix|Red Bull Ring|47.2197|14.7647|Spielberg|Austria|2022|11|2022-07-10|13:00:00Z|64.984
+0|ricard|http://en.wikipedia.org/wiki/2022_French_Grand_Prix|Circuit Paul Ricard|43.2506|5.79167|Le Castellet|France|2022|12|2022-07-24|13:00:00Z|90.872
+0|hungaroring|http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix|Hungaroring|47.5789|19.2486|Budapest|Hungary|2022|13|2022-07-31|13:00:00Z|77.377
+0|spa|http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix|Circuit de Spa-Francorchamps|50.4372|5.97139|Spa|Belgium|2022|14|2022-08-28|13:00:00Z|103.665
+0|zandvoort|http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix|Circuit Park Zandvoort|52.3888|4.54092|Zandvoort|Netherlands|2022|15|2022-09-04|13:00:00Z|70.342
+0|monza|http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix|Autodromo Nazionale di Monza|45.6156|9.28111|Monza|Italy|2022|16|2022-09-11|13:00:00Z|80.161
+0|marina_bay|http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix|Marina Bay Street Circuit|1.2914|103.864|Marina Bay|Singapore|2022|17|2022-10-02|12:00:00Z|109.412
+0|suzuka|http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix|Suzuka Circuit|34.8431|136.541|Suzuka|Japan|2022|18|2022-10-09|05:00:00Z|89.304
